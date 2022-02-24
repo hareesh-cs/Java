@@ -1,0 +1,7 @@
+Hareesh is 23 years old.
+Raghuraj is 26 years old.
+Rohith is 25 years old.
+Siddharth is 31 years old.
+Nikhil is 27 years old.
+Vinay is 19 years old.
+Pavan is 30 years old.
