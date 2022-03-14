@@ -1,4 +1,4 @@
-package section3;
+package Section3;
 import java.util.Scanner;
 
 public class DivisibleBy3 {
